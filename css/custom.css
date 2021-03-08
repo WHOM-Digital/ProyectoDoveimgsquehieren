@@ -28,18 +28,20 @@
 	
   }
 
-  @media only screen and (min-width: 375px){
+  @media only screen and (min-width: 400px){
 
-	#imgFooter{
+	#brandstudio{
 		width: 35%;
+        margin-left: 30%;
 	}
 
 }
 
-@media only screen and (max-width: 375px){
+@media only screen and (max-width: 400px){
 
-	#imgFooter{
+	#brandstudio{
 		width: 70%;
+        margin-left: 30%;
 	}
 
 }
