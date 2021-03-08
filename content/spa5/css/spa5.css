@@ -1192,10 +1192,10 @@ body:not(.template-slider) #Header_wrapper {
 	background-color: #f5ece3;
 }
 body, ul.timeline_items, .icon_box a .desc, .icon_box a:hover .desc, .feature_list ul li a, .list_item a, .list_item a:hover, .widget_recent_entries ul li a, .flat_box a, .flat_box a:hover, .story_box .desc, .content_slider.carouselul li a .title, .content_slider.flat.description ul li .desc, .content_slider.flat.description ul li a .desc, .post-nav.minimal a i {
-	color: #7c746b;
+	color: #a5a5d3;
 }
 .post-nav.minimal a svg {
-	fill: #7c746b;
+	fill: #a5a5d3;
 }
 .themecolor, .opening_hours .opening_hours_wrapper li span, .fancy_heading_icon .icon_top, .fancy_heading_arrows .icon-right-dir, .fancy_heading_arrows .icon-left-dir, .fancy_heading_line .title, .button-love a.mfn-love, .format-link .post-title .icon-link, .pager-single>span, .pager-single a:hover, .widget_meta ul, .widget_pages ul, .widget_rss ul, .widget_mfn_recent_comments ul li:after, .widget_archive ul, .widget_recent_comments ul li:after, .widget_nav_menu ul, .woocommerce ul.products li.product .price, .shop_slider .shop_slider_ul li .item_wrapper .price, .woocommerce-page ul.products li.product .price, .widget_price_filter .price_label .from, .widget_price_filter .price_label .to, .woocommerce ul.product_list_widget li .quantity .amount, .woocommerce .product div.entry-summary .price, .woocommerce .star-rating span, #Error_404 .error_pic i, .style-simple #Filters .filters_wrapper ul li a:hover, .style-simple #Filters .filters_wrapper ul li.current-cat a, .style-simple .quick_fact .title {
 	color: #ef4a24;
@@ -1445,10 +1445,10 @@ a.action_button {
 	color: rgba(37, 43, 81, 0.6);
 }
 #Footer, #Footer .widget_recent_entries ul li a {
-	color: #7c746b;
+	color: #a5a5d3;
 }
 #Footer a {
-	color: #7c746b;
+	color: #a5a5d3;
 }
 #Footer a:hover {
 	color: #ef4a24;
