@@ -1019,10 +1019,10 @@ body, button, span.date_label, .timeline_items li h3 span, input[type="submit"],
 	font-family: "Lora", Arial, Tahoma, sans-serif;
 }
 #Subheader .title {
-	font-family: "Poppins", Arial, Tahoma, sans-serif;
+	font-family: 'HelveticaNeue-light' !important;
 }
 h1, h2, h3, h4, .text-logo #logo {
-	font-family: "Poppins", Arial, Tahoma, sans-serif;
+	font-family: 'HelveticaNeue-light' !important;
 }
 h5, h6 {
 	font-family: "Lora", Arial, Tahoma, sans-serif;
@@ -1031,7 +1031,7 @@ blockquote {
 	font-family: "Lora", Arial, Tahoma, sans-serif;
 }
 .chart_box .chart .num, .counter .desc_wrapper .number-wrapper, .how_it_works .image .number, .pricing-box .plan-header .price, .quick_fact .number-wrapper, .woocommerce .product div.entry-summary .price {
-	font-family: "Poppins", Arial, Tahoma, sans-serif;
+	font-family: 'HelveticaNeue-light' !important;
 }
 body {
 	font-size: 14px;

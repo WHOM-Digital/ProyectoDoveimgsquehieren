@@ -1646,7 +1646,7 @@ body, button, span.date_label, .timeline_items li h3 span, input[type="submit"],
 	font-family: "Montserrat", Arial, Tahoma, sans-serif;
 }
 #menu>ul>li>a, a.action_button, #overlay-menu ul li a {
-	font-family: "Poppins", Arial, Tahoma, sans-serif;
+	font-family: 'HelveticaNeue-light' !important;
 }
 #Subheader .title {
 	font-family: "Montserrat", Arial, Tahoma, sans-serif;

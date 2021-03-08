@@ -167,13 +167,13 @@ body, button, span.date_label, .timeline_items li h3 span, input[type="submit"],
 	font-family: "DM Sans", Helvetica, Arial, sans-serif;
 }
 #Subheader .title {
-	font-family: "Poppins", Helvetica, Arial, sans-serif;
+	font-family: "'HelveticaNeue-light' !important", Helvetica, Arial, sans-serif;
 }
 h1, h2, h3, h4, .text-logo #logo {
-	font-family: "Poppins", Helvetica, Arial, sans-serif;
+	font-family: "'HelveticaNeue-light' !important", Helvetica, Arial, sans-serif;
 }
 h5, h6 {
-	font-family: "Poppins", Helvetica, Arial, sans-serif;
+	font-family: "'HelveticaNeue-light' !important", Helvetica, Arial, sans-serif;
 }
 blockquote {
 	font-family: "DM Sans", Helvetica, Arial, sans-serif;

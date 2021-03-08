@@ -1641,13 +1641,13 @@ body, button, span.date_label, .timeline_items li h3 span, input[type="submit"],
   font-family: "Playfair Display", Arial, Tahoma, sans-serif;
 }
 #Subheader .title {
-  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  font-family: 'HelveticaNeue-light' !important;
 }
 h1, h2, h3, h4, .text-logo #logo {
-  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  font-family: 'HelveticaNeue-light' !important;
 }
 h5, h6 {
-  font-family: "Poppins", Arial, Tahoma, sans-serif;
+  font-family: 'HelveticaNeue-light' !important;
 }
 blockquote {
   font-family: "Roboto", Arial, Tahoma, sans-serif;

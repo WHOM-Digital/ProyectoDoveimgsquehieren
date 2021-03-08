@@ -1638,10 +1638,10 @@ html {
 	background-color: #ffffff;
 }
 body, button, span.date_label, .timeline_items li h3 span, input[type="submit"], input[type="reset"], input[type="button"], input[type="text"], input[type="password"], input[type="tel"], input[type="email"], textarea, select, .offer_li .title h3 {
-	font-family: "Poppins", Arial, Tahoma, sans-serif;
+	font-family: 'HelveticaNeue-light' !important;
 }
 #menu>ul>li>a, a.action_button, #overlay-menu ul li a {
-	font-family: "Poppins", Arial, Tahoma, sans-serif;
+	font-family: 'HelveticaNeue-light' !important;
 }
 #Subheader .title {
 	font-family: "Yeseva One", Arial, Tahoma, sans-serif;
@@ -1650,7 +1650,7 @@ h1, h2, h3, h4, .text-logo #logo {
 	font-family: "Yeseva One", Arial, Tahoma, sans-serif;
 }
 h5, h6 {
-	font-family: "Poppins", Arial, Tahoma, sans-serif;
+	font-family: 'HelveticaNeue-light' !important;
 }
 blockquote {
 	font-family: "Yeseva One", Arial, Tahoma, sans-serif;

@@ -1651,7 +1651,7 @@ body, button, span.date_label, .timeline_items li h3 span, input[type="submit"],
 	font-family: "Libre Baskerville", Arial, Tahoma, sans-serif;
 }
 #menu>ul>li>a, .action_button, #overlay-menu ul li a {
-	font-family: "Poppins", Arial, Tahoma, sans-serif;
+	font-family: 'HelveticaNeue-light' !important;
 }
 #Subheader .title {
 	font-family: "Viga", Arial, Tahoma, sans-serif;
@@ -1663,7 +1663,7 @@ h5, h6 {
 	font-family: "Viga", Arial, Tahoma, sans-serif;
 }
 blockquote {
-	font-family: "Poppins", Arial, Tahoma, sans-serif;
+	font-family: 'HelveticaNeue-light' !important;
 }
 .chart_box .chart .num, .counter .desc_wrapper .number-wrapper, .how_it_works .image .number, .pricing-box .plan-header .price, .quick_fact .number-wrapper, .woocommerce .product div.entry-summary .price {
 	font-family: "Viga", Arial, Tahoma, sans-serif;

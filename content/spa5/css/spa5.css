@@ -1679,25 +1679,25 @@ html {
 	background-color: #f5ece3;
 }
 body, button, span.date_label, .timeline_items li h3 span, input[type="submit"], input[type="reset"], input[type="button"], input[type="text"], input[type="password"], input[type="tel"], input[type="email"], textarea, select, .offer_li .title h3 {
-	font-family: "Lexend Deca", Arial, Tahoma, sans-serif;
+	font-family: 'HelveticaNeue-light' ;
 }
 #menu>ul>li>a, a.action_button, #overlay-menu ul li a {
-	font-family: "Poppins", Arial, Tahoma, sans-serif;
+	font-family: 'HelveticaNeue-light' !important;
 }
 #Subheader .title {
-	font-family: "Vidaloka", Arial, Tahoma, sans-serif;
+	font-family: 'HelveticaNeue-light' ;
 }
 h1, h2, h3, h4, .text-logo #logo {
-	font-family: "Vidaloka", Arial, Tahoma, sans-serif;
+	font-family: 'HelveticaNeue-light' ;
 }
 h5, h6 {
-	font-family: "Lexend Deca", Arial, Tahoma, sans-serif;
+	font-family: 'HelveticaNeue-light' ;
 }
 blockquote {
-	font-family: "Lexend Deca", Arial, Tahoma, sans-serif;
+	font-family: 'HelveticaNeue-light' ;
 }
 .chart_box .chart .num, .counter .desc_wrapper .number-wrapper, .how_it_works .image .number, .pricing-box .plan-header .price, .quick_fact .number-wrapper, .woocommerce .product div.entry-summary .price {
-	font-family: "Lexend Deca", Arial, Tahoma, sans-serif;
+	font-family: 'HelveticaNeue-light' ;
 }
 body {
 	font-size: 15px;
