@@ -46,9 +46,19 @@
 
 }
 
-/* @media screen and (min-width: 375px) and (max-width: 479px){
+@media only screen and (min-width: 400px){
 
-	#fotoMaro{
+	#brandstudio{
 		width: 40%;
+        margin-left: 33%;
 	}
- } */
+
+}
+
+@media only screen and (max-width: 400px){
+
+	#brandstudio{
+		width: 60%;
+	}
+
+}
