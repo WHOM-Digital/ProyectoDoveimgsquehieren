@@ -1,12 +1,4 @@
-/*********************************************************************************
 
-	Template Name: Template Full Name Here
-	Description: A perfect template to build beautiful and unique medical websites. It comes with nice and clean design.
-	Version: 1.0
-
-	Note: This is custom css.
-
-**********************************************************************************/
 
 @font-face {
 	font-family: 'HelveticaNeue-light';
@@ -28,23 +20,6 @@
 	
   }
 
-  /* @media only screen and (min-width: 400px){
-
-	#fotoMaro{
-		max-width: 35%;
-        margin-left: 30%;
-	}
-
-}
-
-@media only screen and (max-width: 400px){
-
-	#fotoMaro{
-		max-width: 70%;
-        margin-left: 30%;
-	}
-
-} */
 
 @media screen and (min-width: 375px) and (max-width: 479px){
 
